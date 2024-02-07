@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\bin\Debug\net7.0\StaticClass.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\bin\Debug\net7.0\StaticClass.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\bin\Debug\net7.0\StaticClass.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\bin\Debug\net7.0\StaticClass.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\bin\Debug\net7.0\StaticClass.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\refint\StaticClass.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\StaticClass.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StaticClass\obj\Debug\net7.0\ref\StaticClass.dll

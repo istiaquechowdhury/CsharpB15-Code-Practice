@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\bin\Debug\net7.0\Operator.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\bin\Debug\net7.0\Operator.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\bin\Debug\net7.0\Operator.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\bin\Debug\net7.0\Operator.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\bin\Debug\net7.0\Operator.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\refint\Operator.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\Operator.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Operator\obj\Debug\net7.0\ref\Operator.dll

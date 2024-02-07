@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\bin\Debug\net7.0\InputOutput.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\bin\Debug\net7.0\InputOutput.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\bin\Debug\net7.0\InputOutput.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\bin\Debug\net7.0\InputOutput.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\bin\Debug\net7.0\InputOutput.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\refint\InputOutput.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\InputOutput.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\InputOutput\obj\Debug\net7.0\ref\InputOutput.dll

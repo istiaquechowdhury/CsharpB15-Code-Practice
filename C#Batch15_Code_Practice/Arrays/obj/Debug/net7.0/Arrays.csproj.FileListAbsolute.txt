@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Arrays\obj\Debug\net7.0\ref\Arrays.dll

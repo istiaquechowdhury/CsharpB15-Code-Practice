@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\bin\Debug\net7.0\Auto Properties.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\bin\Debug\net7.0\Auto Properties.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\bin\Debug\net7.0\Auto Properties.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\bin\Debug\net7.0\Auto Properties.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\bin\Debug\net7.0\Auto Properties.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\refint\Auto Properties.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\Auto Properties.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\Auto Properties\obj\Debug\net7.0\ref\Auto Properties.dll

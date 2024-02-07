@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\bin\Debug\net7.0\OOPPractice.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\bin\Debug\net7.0\OOPPractice.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\bin\Debug\net7.0\OOPPractice.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\bin\Debug\net7.0\OOPPractice.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\bin\Debug\net7.0\OOPPractice.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\refint\OOPPractice.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\OOPPractice.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\OOPPractice\obj\Debug\net7.0\ref\OOPPractice.dll

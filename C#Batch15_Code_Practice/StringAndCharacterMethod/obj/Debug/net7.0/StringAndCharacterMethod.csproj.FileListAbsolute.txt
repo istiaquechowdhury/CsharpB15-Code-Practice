@@ -1,0 +1,15 @@
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\bin\Debug\net7.0\StringAndCharacterMethod.exe
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\bin\Debug\net7.0\StringAndCharacterMethod.deps.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\bin\Debug\net7.0\StringAndCharacterMethod.runtimeconfig.json
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\bin\Debug\net7.0\StringAndCharacterMethod.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\bin\Debug\net7.0\StringAndCharacterMethod.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.AssemblyInfoInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.AssemblyInfo.cs
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\refint\StringAndCharacterMethod.dll
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.pdb
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\StringAndCharacterMethod.genruntimeconfig.cache
+C:\Users\DCL\source\repos\C#Batch15_Code_Practice\StringAndCharacterMethod\obj\Debug\net7.0\ref\StringAndCharacterMethod.dll
